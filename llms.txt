@@ -1,18 +1,19 @@
 # Tarkit
 
-> Tarkit connects GTM strategy, growth engines, AI infrastructure, and B2B CRM workflows.
+> Tarkit connects GTM strategy, growth engines, AI infrastructure, and B2B CRM workflows for teams in Saudi Arabia, the wider Gulf, and Egypt.
 
 ## Company and services
-- [Tarkit | GTM Strategy, Growth Engines & AI Infrastructure](https://tarkit.io/): Tarkit helps B2B teams define their go-to-market strategy, build repeatable growth engines, and connect AI infrastructure with practical CRM workflows.
-- [Tarkit CRM | Account Context, Pipeline & Customer Success](https://tarkit.io/crm.html): Explore Tarkit CRM for B2B sales: accounts, stakeholders, pipeline, next actions, customer success, and role-aware iHelper briefings. Talk to Sales.
-- [GTM Consulting & Growth Systems | Tarkit](https://tarkit.io/services.html): Explore Tarkit consulting: GTM strategy, repeatable growth engines, and AI infrastructure. See the work, deliverables, and how an engagement starts.
-- [About Tarkit | Connecting Strategy, Systems & Software](https://tarkit.io/about.html): Meet Tarkit: a consultancy and B2B CRM product connecting GTM strategy, growth processes, AI infrastructure, and everyday sales execution.
-- [GTM & AI Infrastructure Guides | Tarkit](https://tarkit.io/insights.html): Practical Tarkit guides to go-to-market strategy, repeatable growth engines, and AI infrastructure. Clear definitions and concrete decisions for B2B teams.
-- [What belongs in a go-to-market strategy? | Tarkit](https://tarkit.io/gtm-strategy.html): A go-to-market strategy defines who you serve, the problem you solve, why buyers should choose you, and how you reach and convert them. It turns commercial choices into a coordinated plan.
-- [What makes a growth engine repeatable? | Tarkit](https://tarkit.io/growth-engine.html): A growth engine is a connected set of workflows that finds relevant buyers, advances qualified opportunities, and learns from results. Repeatability comes from clear inputs, owners, handoffs, and review.
-- [What needs to be ready before you automate? | Tarkit](https://tarkit.io/ai-infrastructure.html): AI infrastructure is the data, integrations, permissions, evaluation, and operating process that lets an AI-enabled workflow work reliably. Start with a bounded task and a way to judge the output.
+- [GTM Consulting for Saudi Arabia & Egypt | Tarkit](https://tarkit.io/): GTM consulting for B2B teams in Saudi Arabia, the Gulf, and Egypt. Build a sales motion your team can own, from market choices to working systems.
+- [B2B CRM Demo: Accounts, Pipeline & iHelper | Tarkit](https://tarkit.io/crm.html): Explore Tarkit’s B2B CRM demo with fictional data, account context, pipeline, and rule-based iHelper briefings. Discuss production requirements with Sales.
+- [GTM Consulting in Saudi Arabia, Gulf & Egypt | Tarkit](https://tarkit.io/services.html): Define your market, build an owned sales workflow, or scope an AI pilot. Explore Tarkit’s consulting deliverables, client inputs, and handover process.
+- [About Tarkit & Founder Tarek Ezzat | Tarkit](https://tarkit.io/about.html): Meet Tarkit and founder Tarek Ezzat. Explore our approach to GTM decisions, sales workflows, and AI infrastructure for the Gulf and Egypt.
+- [GTM & AI Infrastructure Guides | Tarkit](https://tarkit.io/insights.html): Apply GTM decisions, sales handoffs, and AI readiness checks to your B2B workflow. Explore worked examples and download reusable worksheets.
+- [A practical B2B go-to-market plan | Tarkit](https://tarkit.io/gtm-strategy.html): Choose your market, define the buying team, and connect positioning to a sales motion. A worked B2B example and a reusable GTM worksheet.
+- [Build a B2B sales handoff that works | Tarkit](https://tarkit.io/growth-engine.html): Define the evidence, owner, next action, and review point for a sales handoff. Includes an illustrative workflow and a reusable worksheet.
+- [AI infrastructure readiness for B2B workflows | Tarkit](https://tarkit.io/ai-infrastructure.html): Check data access, integrations, evaluation, human review, and fallback before piloting an AI workflow. Includes an account-briefing example.
 - [Talk to Tarkit | GTM Consulting & CRM Sales](https://tarkit.io/contact.html): Discuss GTM strategy, growth engines, AI infrastructure, or Tarkit CRM. Tell us your workflow, commercial challenge, and implementation needs.
 - [Website Privacy | Tarkit](https://tarkit.io/privacy.html): How the Tarkit website handles visits, email enquiries, and links to the separate public CRM demonstration.
+- [Sample GTM Deliverables & Worksheets | Tarkit](https://tarkit.io/sample-work.html): Inspect illustrative GTM, sales handoff, and AI pilot deliverables. Download blank worksheets and see how Tarkit structures the work.
 
 ## Product boundaries
-The CRM demo uses fictional data. iHelper currently provides rule-based briefings. Generative account briefs are not connected in this version. Commercial scope is discussed with Sales; no public price is offered.
+The CRM demo uses fictional data and simulated collaboration. Public work samples are illustrative, not client case studies. iHelper currently provides rule-based briefings. Generative account briefs are not connected in this version. Commercial scope is discussed with Sales; no public price is offered.

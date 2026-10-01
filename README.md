@@ -8,11 +8,16 @@ A static company website combining the consultancy homepage from V.01 and CRM pr
 - Consulting: `services.html`
 - Product: `crm.html`
 - Insights: `insights.html` and three linked practical guides
+- Work samples and downloads: `sample-work.html` and `resources/*.csv`
 - Company: `about.html`
 - Sales: `contact.html`
 - Demo access: `login.html`
 - Privacy: `privacy.html`
 - Missing page: `404.html`
+
+## Audience and evidence
+
+The primary markets are Saudi Arabia, the wider Gulf, and Egypt. Public work samples use fictional scenarios; they are not client case studies or proof of results. Guides include blank CSV worksheets and organization authorship. Further founder credentials and client evidence require verified facts and publication permission.
 
 ## Editing
 
@@ -36,4 +41,4 @@ GitHub Pages does not provide arbitrary custom response-header configuration. Me
 
 ## Asset provenance
 
-See ASSETS.md for font and logo sources. Logos identify tools and the consulting reference already present in V.01; they do not assert certifications or product integrations.
+See ASSETS.md for font and logo sources. Displayed logos identify tools; they do not assert certifications or product integrations. The inherited GTM Heist relationship is not displayed pending clarification and permission.
