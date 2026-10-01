@@ -3,9 +3,9 @@ name: Tarkit V.Final_one
 description: The supplied consulting and CRM identity, refined with Hubot Sans and outlined signal-window illustrations.
 colors:
   yellow: "#f9fe56"
-  purple: "#7850bd"
-  deep: "#523888"
-  pink: "#ad398f"
+  purple: "#6631D7"
+  deep: "#6631D7"
+  pink: "#D249D9"
   lavender: "#f1e6f6"
   black: "#19171b"
   white: "#fff"
@@ -129,7 +129,7 @@ Hero headlines scale responsively and balance their lines. General page introduc
 
 ## Layout
 
-The main container is capped at 1240px with 24px side gutters on desktop. Below 768px it uses 20px side gutters. Reading guides cap their container at 850px.
+The main container is capped at 1240px with 24px side gutters on desktop. Below 768px it uses 20px side gutters. The privacy reading column caps its container at 850px.
 
 Desktop layouts pair text and an illustration or supporting content; section headings and service details use two columns. Service cards form three columns, reduce to two at 900px, and become a single column at 767px. The main text-and-illustration hero becomes a single column at 900px. Other paired content sections collapse at 767px.
 
@@ -165,10 +165,6 @@ Fields use permanent 15px bold labels, white backgrounds, a thin neutral border,
 
 The supplied SVG is the complete brand lockup. Desktop navigation uses concise labels and a purple underline for the current page. The mobile menu button exposes its expanded state and controls the navigation panel. The skip link becomes visible on keyboard focus. Footer links use light text and yellow hover on charcoal.
 
-### Resources and guides
-
-Resources use spacious divider-separated rows with a title, metadata, and one directional icon. On mobile the metadata moves above the title. Guides use a narrower reading measure, linked contents, and lavender note panels.
-
 ### Tool-logo strip
 
 Two equal groups move as one continuous, linear 28-second loop. Hover, focus, the explicit pause control, and reduced-motion preference stop movement. Reduced motion leaves a scrollable strip and removes the duplicate hidden group. Keep routine keyboard interactions immediate; most of the site remains still.
@@ -188,3 +184,8 @@ Two equal groups move as one continuous, linear 28-second loop. Hover, focus, th
 - **Don't** introduce decorative gradients, neon effects, or motion without a clear purpose.
 - **Don't** add fabricated testimonials, performance results, badges, prices, or capabilities as visual proof.
 - **Don't** present the email-draft form as a sent-message confirmation or demo access as secure authentication.
+
+
+## Owner update — 1 October 2026
+
+Use the supplied PNG wordmark and palette yellow #F9FE56, purple #6631D7, pink #D249D9. The tool stack flows automatically in original brand colors without a pause button; focus/hover and reduced-motion behavior remain. No trusted section. Insights, guides, sample work, and downloads are retired from navigation and publishing. Login navigation appears only on the CRM page.

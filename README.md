@@ -7,8 +7,6 @@ A static company website combining the consultancy homepage from V.01 and CRM pr
 - Home: `index.html`
 - Consulting: `services.html`
 - Product: `crm.html`
-- Insights: `insights.html` and three linked practical guides
-- Work samples and downloads: `sample-work.html` and `resources/*.csv`
 - Company: `about.html`
 - Sales: `contact.html`
 - Demo access: `login.html`
@@ -17,7 +15,7 @@ A static company website combining the consultancy homepage from V.01 and CRM pr
 
 ## Audience and evidence
 
-The primary markets are Saudi Arabia, the wider Gulf, and Egypt. Public work samples use fictional scenarios; they are not client case studies or proof of results. Guides include blank CSV worksheets and organization authorship. Further founder credentials and client evidence require verified facts and publication permission.
+The primary markets are Saudi Arabia, the wider Gulf, and Egypt. Insights, practical guides, and worksheets were removed at the owner’s request. Further founder credentials and client evidence require verified facts and publication permission.
 
 ## Editing
 

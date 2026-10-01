@@ -8,8 +8,6 @@ menu.addEventListener('click',()=>{nav.classList.toggle('open');syncMenu();});
 nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>closeMenu()));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav.classList.contains('open'))closeMenu(true);});
 document.addEventListener('pointerdown',e=>{if(!e.target.closest('header'))closeMenu();});small.addEventListener('change',()=>closeMenu());syncMenu();
-const stackButton=document.getElementById('stack-toggle');
-if(stackButton)stackButton.addEventListener('click',()=>{const paused=document.querySelector('.stack-section').classList.toggle('paused');stackButton.setAttribute('aria-pressed',String(paused));stackButton.textContent=paused?'Play logos':'Pause logos';});
 const roleStories={rep:['Start with the next conversation.','Review due follow-ups, open the account context, and prepare with shared battlecards and ROI cases.'],manager:['Run the review with the full picture.','See pipeline stages, team activity, and missing account data. Compare forecast scenarios before agreeing the next move.'],leader:['Connect the pipeline to the plan.','Review revenue exposure, annual targets, customer health, and renewal readiness in a shared commercial workspace.']};
 document.querySelectorAll('[data-role]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-role]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));const s=roleStories[button.dataset.role];document.getElementById('role-headline').textContent=s[0];document.getElementById('role-description').textContent=s[1];}));
 const contact=document.getElementById('contact-form');
